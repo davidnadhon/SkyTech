@@ -1,0 +1,11 @@
+date,action,details
+2025-12-09 13:31:43,Import CSV,"Horizon 0 jours, fichiers : Prototype\test.csv"
+2025-12-09 13:31:44,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-09 13:32:43,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-09 13:32:43,Remplacement pilote,Luc Martin→Emma Richard; Antoine Petit→Claire Moreau; Julien Dubois→Claire Moreau; Léa Fontaine→Marie Curie
+2025-12-09 13:33:51,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-09 13:33:51,Remplacement équipage,Luc Martin→Jean Dupont; Antoine Petit→Jean Dupont; Julien Dubois→Jean Dupont; Léa Fontaine→Jean Dupont
+2025-12-09 18:52:02,Import CSV,"Horizon 0 jours, fichiers : Prototype\test.csv"
+2025-12-09 18:52:02,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-10 10:38:13,Import CSV,"Horizon 0 jours, fichiers : Prototype/test.csv"
+2025-12-10 10:38:13,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"

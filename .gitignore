@@ -1,0 +1,45 @@
+# --- 1. SYSTÈME & PYTHON (Ce qu'on cache absolument) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+wheels/
+.installed.cfg
+
+# --- 2. ENVIRONNEMENT VIRTUEL (INTERDIT sur GitHub) ---
+# Si tu envoies ça, le jury ne pourra pas lancer le projet.
+venv/
+env/
+.venv/
+.env
+
+# --- 3. CONFIGURATION IDE ---
+.idea/
+.vscode/
+*.swp
+
+# --- 4. LOGS (AUTORISÉS ✅) ---
+# On les laisse passer pour montrer l'historique au jury
+# logs/*   <-- Je l'ai désactivé (commenté)
+
+# --- 5. VIDÉOS (AUTORISÉES ✅) ---
+# On laisse passer les démos
+# *.mp4
+# *.avi
+# videos/* <-- Je l'ai désactivé (commenté)
+
+# --- 6. MODÈLES IA (AUTORISÉS ✅) ---
+# On laisse passer les cerveaux (YOLO, Joblib)
+# *.pt
+# *.onnx
+# *.joblib
+# *.pkl
+
+# --- 7. SYSTÈME D'EXPLOITATION ---
+.DS_Store
+Thumbs.db

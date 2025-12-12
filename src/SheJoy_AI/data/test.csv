@@ -1,0 +1,11 @@
+id_pilote,nom_pilote,id_vol,heure_debut_service,heure_fin_service,duree_vol,nombre_etapes,repos_avant_service,jours_consecutifs_travail,heures_48h,heures_7j,est_service_nuit,debut_fenetre_sommeil,fin_fenetre_sommeil,fuseaux_traverses,voyage_est,type_appareil,equipage_augmente,type_vol,experience_annees,age_pilote,duree_service_mensuelle_moyenne,rapports_fatigue_90j,auto_evaluation
+P001,Jean Dupont,AF123,6,10,240,1,12,2,16,42,0,0,0,2,1,A320,2,court,5,35,70,1,3
+P002,Marie Curie,AF124,8,14,360,2,10,3,18,45,1,1,0,3,0,B737,2,moyen,8,42,65,0,2
+P003,Luc Martin,AF125,22,2,240,1,8,4,20,50,1,1,1,5,1,A320,2,long,12,50,80,2,4
+P004,Sophie Leroy,AF126,5,9,240,1,11,2,15,40,0,0,0,1,0,B737,2,court,6,38,68,0,3
+P005,Antoine Petit,AF127,18,22,240,1,9,3,17,44,1,1,0,4,1,A320,2,moyen,10,45,75,1,4
+P006,Claire Moreau,AF128,7,12,300,2,12,2,16,42,0,0,0,2,0,B737,2,long,7,40,70,0,3
+P007,Julien Dubois,AF129,20,1,300,2,10,3,18,46,1,1,1,5,1,A320,2,moyen,9,44,72,2,4
+P008,Emma Richard,AF130,6,11,300,1,11,2,15,41,0,0,0,1,0,B737,2,court,5,36,68,0,3
+P009,Thomas Bernard,AF131,9,14,300,2,10,3,17,45,0,1,0,3,1,A320,2,long,8,43,74,1,4
+P010,Léa Fontaine,AF132,21,1,240,1,8,4,20,50,1,1,1,4,1,B737,2,moyen,11,48,78,2,5

@@ -1,0 +1,16 @@
+date,action,details
+2025-12-11 11:24:12,Import CSV,"Horizon 0 jours, fichiers : data/test.csv"
+2025-12-11 11:24:13,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 11:24:40,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 11:24:40,Remplacement pilote,Luc Martin→Sophie Leroy; Antoine Petit→Sophie Leroy; Julien Dubois→Thomas Bernard; Léa Fontaine→Jean Dupont
+2025-12-11 12:24:41,Import CSV,"Horizon 0 jours, fichiers : data/test.csv"
+2025-12-11 12:24:42,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 12:25:18,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 12:25:18,Remplacement pilote,Luc Martin→Marie Curie; Antoine Petit→Claire Moreau; Julien Dubois→Emma Richard; Léa Fontaine→Sophie Leroy
+2025-12-11 12:25:52,Import CSV,"Horizon 3 jours, fichiers : data/test.csv"
+2025-12-11 13:53:27,Import CSV,"Horizon 0 jours, fichiers : data/test.csv"
+2025-12-11 13:54:58,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 13:57:13,Import CSV,"Horizon 7 jours, fichiers : data/test.csv"
+2025-12-11 13:57:14,Analyse fatigue,"Horizon 7 jours, 10 pilotes analysés"
+2025-12-11 13:57:26,Analyse fatigue,"Horizon 0 jours, 10 pilotes analysés"
+2025-12-11 13:57:26,Remplacement pilote,Luc Martin→Emma Richard; Antoine Petit→Thomas Bernard; Julien Dubois→Thomas Bernard; Léa Fontaine→Claire Moreau
